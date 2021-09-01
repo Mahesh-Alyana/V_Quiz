@@ -1,0 +1,40 @@
+[
+    {
+        "1": "How much memory does Human DNA stores",
+        "2": "Which is the only mammal that can fly",
+        "3": "Which is the only mammal that can fly",
+        "4": "What is the Original Name of Microsoft windows?"
+    },
+    {
+        "1": {
+            "a": "1 MB",
+            "b": "1 TB",
+            "c": "455 MB",
+            "d": "455 EB"
+        },
+        "2": {
+            "a": "2 litre",
+            "b": "3 litre",
+            "c": "4 litre",
+            "d": "1 litre"
+        },
+        "3": {
+            "a": "Sparrow",
+            "b": "Pigeon",
+            "c": "Eagle",
+            "d": "Bats"
+        },
+        "4": {
+            "a": "Windows",
+            "b": "Microsoft ",
+            "c": "Microsoft Windows",
+            "d": "Interface manager"
+        }
+    },
+    {
+        "1": "455 EB",
+        "2": "1 litre",
+        "3": "Bats",
+        "4": "Interface manager"
+    }
+]

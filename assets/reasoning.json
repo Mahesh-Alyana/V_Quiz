@@ -1,0 +1,40 @@
+[
+    {
+        "1": "Which word is odd man out?",
+        "2": "Safe  :  Secure :: Protect : ?",
+        "3": "7, 10, 8, 11, 9, 12, ?.... What number should come next?",
+        "4": "In a code Language, if POSE is called as OQNPRTDF then the word TYPE will be coded as ?"
+    },
+    {
+        "1": {
+            "a": "Trival",
+            "b": "UnImportant",
+            "c": "Insignificant",
+            "d": "Important"
+        },
+        "2": {
+            "a": "Lock",
+            "b": "Sure",
+            "c": "Conserve",
+            "d": "Gaurd"
+        },
+        "3": {
+            "a": "13",
+            "b": "12",
+            "c": "10",
+            "d": "7"
+        },
+        "4": {
+            "a": "SUXZOQFD",
+            "b": "SUXZQOFD",
+            "c": "SUXZQODE",
+            "d": "SUXZOQDF"
+        }
+    },
+    {
+        "1": "Important",
+        "2": "Gaurd",
+        "3": "7",
+        "4": "SUXZOQDF"
+    }
+]

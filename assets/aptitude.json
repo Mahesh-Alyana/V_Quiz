@@ -1,0 +1,39 @@
+[
+    {
+        "1": "A Person can cross a 600m Long street in 5 min, what is his speed in kmph",
+        "2": "A and B can do work in four days , while C and D can do the work in 12 days. In how many days A, B,C, D can do it together",
+        "3": "40% of 280 is?",
+        "4": "A shopkeeper sold an article for RS 2500, if the cost price of the article is 2000. Find the profit percentage?"
+    },
+    {
+        "1": {
+            "a": "10",
+            "b": "8.4",
+            "c": "3.6",
+            "d": "7.2"
+        },
+        "2": {
+            "b": "4 days",
+            "c": "2 days",
+            "d": "3 days"
+        },
+        "3": {
+            "a": "120",
+            "b": "115",
+            "c": "116",
+            "d": "112"
+        },
+        "4": {
+            "a": "23%",
+            "b": "29%",
+            "c": "27%",
+            "d": "25%"
+        }
+    },
+    {
+        "1": "7.2",
+        "2": "3 days",
+        "3": "112",
+        "4": "25%"
+    }
+]

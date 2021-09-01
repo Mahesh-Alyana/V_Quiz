@@ -1,0 +1,40 @@
+[
+    {
+        "1": "There are  4 floors in the hotel,the higher the floor ,the more the people live there,which floor is the elevator go to most often.",
+        "2": "What is always coming but never arrives",
+        "3": "What can be once catch that's not thrown?",
+        "4": "If you have a bowl with 6 apples, you take away 4, how many do you have"
+    },
+    {
+        "1": {
+            "a": "4 floor",
+            "b": "2 floor",
+            "c": "3 floor",
+            "d": "1 floor"
+        },
+        "2": {
+            "a": "Today",
+            "b": "Yesterday",
+            "c": "None of the above",
+            "d": "Tommorow"
+        },
+        "3": {
+            "a": "A ball",
+            "b": "A book",
+            "c": "A Cold",
+            "d": "None of the above"
+        },
+        "4": {
+            "a": "2",
+            "b": "6 ",
+            "c": "4",
+            "d": "None of the above"
+        }
+    },
+    {
+        "1": "1 floor",
+        "2": "Tommorow",
+        "3": "A Cold",
+        "4": "4"
+    }
+]
